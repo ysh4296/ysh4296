@@ -5,3 +5,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh4296&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysh4296&theme=nord_dark)
