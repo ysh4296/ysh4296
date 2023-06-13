@@ -1,6 +1,6 @@
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysh4296&theme=tokyonight&show_icons=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ysh4296&theme=tokyonight&show_icons=true"/>
 </a>
 
 
