@@ -9,3 +9,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysh4296&theme=nord_dark)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbtmdgns4296)](https://solved.ac/dbtmdgns4296/)
+
