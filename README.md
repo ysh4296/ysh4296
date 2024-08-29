@@ -8,7 +8,7 @@ I’m currently very interested in exploring various front-end technologies, esp
 - 🌱 I’m currently learning TypeScript & Nextjs, React
 - 📫 How to reach me: dbtmdgns4296@naver.com
 
-## 🛠️ Tech Stack
+## 🛠️ Confident Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
