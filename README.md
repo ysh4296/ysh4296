@@ -1,4 +1,4 @@
-# Hello I'm Seunghun! 👋
+# Hello! 👋
 
 I’m currently very interested in exploring various front-end technologies, especially Making solution for complex problems with TypeScript.
 
