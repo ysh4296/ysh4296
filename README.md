@@ -4,6 +4,7 @@ I’m currently very interested in exploring various front-end technologies, esp
 
 ## 🚀 About Me
 
+- 🔭 I am currently operating the [Website](https://react-native-flying-objects.com/)
 - 🔭 I’m currently making a [Web Game](https://github.com/ysh4296/Project_Icarus)
 - 🌱 I’m currently learning TypeScript & React, Nextjs
 - 📫 How to reach me: dbtmdgns4296@naver.com
