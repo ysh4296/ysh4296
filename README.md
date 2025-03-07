@@ -6,7 +6,6 @@ I’m currently very interested in exploring various front-end technologies, esp
 
 - 🔭 now i have a web [resume](https://gatsby-sigma-smoky.vercel.app/)
 - 🔭 I am currently operating the [Website](https://bigmacexchange.com/)
-- 🔭 I’m currently making a [Web Game](https://github.com/ysh4296/Project_Icarus)
 - 🌱 I’m currently learning TypeScript & React, Nextjs
 - 📫 How to reach me: dbtmdgns4296@naver.com
 
