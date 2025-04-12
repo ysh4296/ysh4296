@@ -20,8 +20,13 @@ I’m currently very interested in exploring various front-end technologies, esp
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GithubStats
 ![Ysh4296's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysh4296&theme=slateorange)
 
-## 🧑‍💻 Articles
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ysh4296)](https://velog.io/@ysh4296/improve-fluid-engine-with-webassembly-bench-mark) 
+## 🎲 CodeForce
+![CodeForces Profile](https://cf.leed.at?id=killercicada)
+
+
+## 🧑‍💻 blog
+https://velog.io/@ysh4296
+
