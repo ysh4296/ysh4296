@@ -5,7 +5,6 @@ I’m currently very interested in exploring various front-end technologies, esp
 ## 🚀 About Me
 
 - 🔭 now i have a web [resume](https://gatsby-sigma-smoky.vercel.app/)
-- 🔭 I am currently operating the [Website](https://dflock.org/)
 - 🌱 I’m currently learning TypeScript & React, Nextjs
 - 📫 How to reach me: dbtmdgns4296@naver.com
 
